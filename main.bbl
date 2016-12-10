@@ -16,57 +16,74 @@
   {}
 \endgroup
 
-\entry{kendall2007practical}{inproceedings}{}
+\entry{jnbbig}{article}{}
   \name{author}{2}{}{%
     {{}%
-     {Kendall}{K.}%
-     {Kris}{K.}%
+     {Bandyopadhyay}{B.}%
+     {Jayendra~N.}{J.~N.}%
      {}{}%
      {}{}}%
     {{}%
-     {McMillan}{M.}%
-     {Chad}{C.}%
+     {Lakshminarayan}{L.}%
+     {Arul}{A.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{KKMC1}
-  \strng{fullhash}{KKMC1}
-  \field{sortinit}{K}
-  \field{booktitle}{Black Hat Conference, USA}
-  \field{pages}{10}
-  \field{title}{Practical malware analysis}
-  \field{year}{2007}
+  \list{publisher}{1}{%
+    {American Physical Society}%
+  }
+  \strng{namehash}{BJNLA1}
+  \strng{fullhash}{BJNLA1}
+  \field{sortinit}{B}
+  \verb{doi}
+  \verb 10.1103/PhysRevE.69.016201
+  \endverb
+  \field{issue}{1}
+  \field{pages}{016201}
+  \field{title}{Entanglement production in coupled chaotic systems: Case of the
+  kicked tops}
+  \verb{url}
+  \verb http://link.aps.org/doi/10.1103/PhysRevE.69.016201
+  \endverb
+  \field{volume}{69}
+  \field{journaltitle}{Phys. Rev. E}
+  \field{year}{2004}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
-\entry{cmu-malware}{article}{}
-  \name{author}{4}{}{%
+\entry{dalibard}{article}{}
+  \name{author}{2}{}{%
     {{}%
-     {O’Meara}{O.}%
-     {Kyle}{K.}%
+     {Goldman}{G.}%
+     {N.}{N.}%
      {}{}%
      {}{}}%
     {{}%
-     {Shick}{S.}%
-     {Deana}{D.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Spring}{S.}%
-     {Jonathan}{J.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Stoner}{S.}%
-     {Edward}{E.}%
+     {Dalibard}{D.}%
+     {J.}{J.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{OK+1}
-  \strng{fullhash}{OKSDSJSE1}
-  \field{sortinit}{O}
-  \field{title}{Malware Capability Development Patterns Respond To Defenses:
-  Two Case Studies}
-  \field{year}{2016}
+  \list{publisher}{1}{%
+    {American Physical Society}%
+  }
+  \strng{namehash}{GNDJ1}
+  \strng{fullhash}{GNDJ1}
+  \field{sortinit}{G}
+  \verb{doi}
+  \verb 10.1103/PhysRevX.4.031027
+  \endverb
+  \field{issue}{3}
+  \field{pages}{031027}
+  \field{title}{Periodically Driven Quantum Systems: Effective Hamiltonians and
+  Engineered Gauge Fields}
+  \verb{url}
+  \verb http://link.aps.org/doi/10.1103/PhysRevX.4.031027
+  \endverb
+  \field{volume}{4}
+  \field{journaltitle}{Phys. Rev. X}
+  \field{year}{2014}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \lossort

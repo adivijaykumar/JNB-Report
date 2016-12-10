@@ -13,3 +13,9 @@
 \contentsline {section}{\numberline {1.2}Quantum Kicked Rotor}{1}{section.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.3}Measures of Entaglement}{2}{section.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Analysis Procedures}{3}{chapter.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Method by Dalibard et al}{3}{section.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Results and Conclusions}{4}{chapter.17}

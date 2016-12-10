@@ -1,0 +1,36 @@
+% Chapter Template
+
+\chapter{Analysis Procedures} % Main chapter title
+
+\label{Chapter2} % Change X to a consecutive number; for referencing this chapter elsewhere, use \ref{ChapterX}
+
+\lhead{Chapter 2. \emph{Analysis Procedures}} % Change X to a consecutive number; this is for the header on each page - perhaps a shortened title
+
+%----------------------------------------------------------------------------------------
+%	SECTION 1
+%------------------------------------------
+\section{Method by Dalibard et al}
+
+Dalibard's method is an a general formalism that captures the essential features ruling the dynamics of quantum periodic systems by construction of an effective Hamiltonian.\cite{dalibard}.
+
+For the case of a quantum coupled periodic system, the effective Hamiltonian can be written as
+
+\begin{equation}
+H_{eff}=H_0 + V_0 + \sum_{n} \frac{1}{2n^2\omega^2}([[V_n,H_0],V_{-n}]+h.c.) + \mathcal{O}(\omega^3)
+\end{equation}
+
+where
+\begin{equation}
+H_0 = p_1J_{y_1} \otimes I_2 + p_2I_1 \otimes J_{y_2},
+V_0 = \frac{k_1}{2j}J_{z_1}^2 \otimes I_2 + \frac{k_2}{2j}I_1 \otimes J_{z_2}^2
+\end{equation}
+
+Using the eigenvectors of $H_{eff}$, the reduced density matrix can be constructed by first constructing a matrix $C$ which is an $n\times n$ array of the eigenvectors. The RDM $\rho$ can be calculated by the formaula
+
+\begin{equation}
+\rho= C^\dagger C
+\end{equation}
+
+We then use the formula in chapter 1 to calculate the entaglement.
+
+
